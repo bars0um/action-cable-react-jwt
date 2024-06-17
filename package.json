@@ -1,5 +1,5 @@
 {
-  "name": "action-cable-react-jwt",
+  "name": "action-cable-react-jwt-rails",
   "version": "0.0.4",
   "description": "Rails actioncable integration with JWT Authentication for React and ReactNative",
   "main": "action_cable_react_jwt.js",
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "jwt",
-    "actioncable",
+    "@rails/actioncable",
     "react",
     "react-native"
   ],
